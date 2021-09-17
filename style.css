@@ -10,6 +10,7 @@
 h1{
     text-align: center;
     margin-bottom: 2rem;
+    text-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.3);
 }
 .main-contant{
     background:  rgb(255, 255, 255);
@@ -56,6 +57,7 @@ p{
     margin-top: 5rem;
 }
 .contant{
+    border-radius: 3rem;
     width: 25rem;
     height: 35rem;
     background-color: #ffffff;
